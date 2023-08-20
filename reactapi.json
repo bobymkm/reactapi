@@ -1,0 +1,40 @@
+{
+"data":[
+	{
+	"id":1,
+	"title":"Ladakh",
+	"image":"https://www.india.com/wp-content/uploads/2022/06/ladakh-img.jpg",
+	"description":"Ladakh is bordered by the Tibet Autonomous Region to the east."
+	},
+	{
+	"id":2,
+	"title":"Manali",
+	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Manali_City.jpg/1200px-Manali_City.jpg",
+	"description":"Manali is a town, near Kullu town in Kullu district in the Indian state of Himachal Pradesh.It is situated in the northern end of the Kullu Valley"
+	},
+	{
+	"id":3,
+	"title":"Gangtok",
+	"image":"https://upload.wikimedia.org/wikipedia/commons/9/97/M.G._Marg%2C_Gangtok_01.jpg",
+	"description":"Gangtok is a city, municipality, the capital and the most populous city of the Indian state of Sikkim and also the headquarters of Gangtok District."
+	},
+	{
+	"id":4,
+	"title":"Darjeeling",
+	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/DarjeelingTrainFruitshop_%282%29.jpg/1200px-DarjeelingTrainFruitshop_%282%29.jpg",
+	"description":"Darjeeling is a town and municipality in the northernmost region of the Indian state of West Bengal."
+	},
+	{
+	"id":5,
+	"title":"Dalhousie",
+	"image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/01/42/68/primary-as-you-look-into.jpg?w=700&h=-1&s=1",
+	"description":"Dalhousie  (Hindustani pronunciation is a hill station, near town of Chamba in Chamba district in the Indian state of Himachal Pradesh"
+	},
+	{
+	"id":6,
+	"title":"Nainital",
+	"image":"https://www.tourmyindia.com/states/uttarakhand/image/nainital-banner.webp",
+	"description":"Nainital is located in the Kumaon foothills of the outer Himalayas at a distance of 285 km (177 mi) from the state capital Dehradun."
+	}
+       ]
+}
